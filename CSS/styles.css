@@ -1,0 +1,13 @@
+/**************TAG SELECTORS****************/
+h1{
+  color: red;
+  font-size:100px
+}
+/**************CLASS SELECTORS***************/
+.pizza {
+  background-color: green:
+}
+/**************CLASS SELECTORS***************/
+#heading{
+  color: blue;
+}
